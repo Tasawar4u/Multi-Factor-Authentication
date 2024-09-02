@@ -1,0 +1,4 @@
+feedback_id,user_id,mfa_id,feedback_timestamp,satisfaction_score,comments
+1,1,1,2024-01-08 17:00:00,5,Very secure
+2,2,2,2024-01-09 18:00:00,3,Difficult to use
+3,3,3,2024-01-10 19:00:00,4,Works well

@@ -1,0 +1,4 @@
+incident_id,user_id,incident_timestamp,incident_type,outcome,mfa_used
+1,1,5/01/2024 14:00,Attempted Breach,Prevented,TRUE
+2,2,6/01/2024 15:00,Successful Breach,Compromised,FALSE
+3,3,7/01/2024 16:00,Attempted Breach,Prevented,TRUE

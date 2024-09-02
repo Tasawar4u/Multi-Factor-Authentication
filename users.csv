@@ -1,0 +1,4 @@
+user_id,name,email,enrolled_tutorials,enrolled_tutorials
+1,John Doe,johndoe@example.com,Tutorial1,Simulation1
+2,Jane Smith,janesmith@example.com,Tutorial2,Simulation2
+3,Bob Johnson,bobjohnson@example.com,Tutorial3,Simulation3

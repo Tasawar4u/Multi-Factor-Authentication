@@ -1,0 +1,5 @@
+mfa_id,method_name,description
+1,SMS,Text message to phone
+2,Email,Verification link sent to email
+3,Face Recognition,Face scan
+4,Iris Scan,Iris scan
